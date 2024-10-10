@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers==2.2.2
+pinecone-client==2.2.4  # You can keep this in case you ever want to switch back to Pinecone
+langchain_community
+transformers==0.2.5
+langchain==0.0.225
+flask
+pypdf
+python-dotenv
+-e .
